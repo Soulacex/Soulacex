@@ -5,11 +5,15 @@
 <h2>⚜️About Me⚜️</h2>
 <p>I'm always trying to my expand my horizons. I promise you that I won't ever stop learning as life itself is a learned experience.
 I want to go the distance and push myself to become a better programmer, coder, person just one step at a time.
-I'm a believer. I believe in myself and my abilities to do my best. Never forget that!</p>
+I'm a believer, I believe in myself and my abilities to do my best, and most of all I never give up.</p>
 
 <p>
 💻 I'm open to colloborating on any and all things tech related: Blockchain, Developing, Web3, Front-End, Back-End.
-📒 I'm looking to write any research papers on Blockchain/Web 3.0 topics.
+</p>
+<p>
+📒 I'm looking to write any research papers on Blockchain/Web 3.0 topics
+</p>
+<p>
 🗓 I'm also looking for any co-ops/internships in the tech field for the summer of 2023.
 </p>
 
