@@ -17,7 +17,7 @@ I'm a believer, I believe in myself and my abilities to do my best, and most of 
 
 <h2>🛰Outlets🛰</h2>
 <p align="left">
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]https://www.linkedin.com/in/charles-von-goins-ii-968aa824a/
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-von-goins-ii-968aa824a/)
 </p>
 
 
