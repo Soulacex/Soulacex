@@ -15,7 +15,7 @@ I'm a believer, I believe in myself and my abilities to do my best, and most of 
 🗓 I'm also looking for any co-ops/internships in the tech field for the summer of 2023.
 </p>
 
-<h2> 🛰Outlets🛰</h2>
+<h2>🛰Outlets🛰</h2>
 <p align="left">
     <a href = "https://www.linkedin.com/in/charles-von-goins-ii-968aa824a/">
     <img alt="My LinkedIn Page!"
@@ -34,6 +34,8 @@ I'm a believer, I believe in myself and my abilities to do my best, and most of 
 <img align="left" alt='Java' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg"/>
 <img align="left" alt='Java' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
 <img align="left" alt='Java' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg"/>
+
+
 
 
 
