@@ -23,11 +23,6 @@ I'm a believer, I believe in myself and my abilities to do my best, and most of 
     </a>
 </p>
 
-<h2>🖥Tech Skills🖥</h2>
-<p align='left'>
-    <a>
-    <src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'>
-    </a>
-</p>
+
 
 
