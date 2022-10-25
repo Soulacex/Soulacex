@@ -24,16 +24,16 @@ I'm a believer, I believe in myself and my abilities to do my best, and most of 
 </p>
 
 <h2>🖥Tech Skills/Coding Languages🖥</h2>
-<img align="left" alt='Java' width='60px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-<img align="left" alt='Java' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg"/>
-<img align="left" alt='Java' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
-<img align="left" alt='Java' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
-<img align="left" alt='Java' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt='Java' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-<img align="left" alt='Java' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg"/>
-<img align="left" alt='Java' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg"/>
-<img align="left" alt='Java' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
-<img align="left" alt='Java' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg"/>
+<img align="left" alt='Java' width='70px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+<img align="left" alt='Java' width='70px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg"/>
+<img align="left" alt='Java' width='70px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+<img align="left" alt='Java' width='70px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
+<img align="left" alt='Java' width='70px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt='Java' width='70px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+<img align="left" alt='Java' width='70px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg"/>
+<img align="left" alt='Java' width='70px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg"/>
+<img align="left" alt='Java' width='70px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
+<img align="left" alt='Java' width='70px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg"/>
 
 
 
