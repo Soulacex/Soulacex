@@ -15,11 +15,18 @@ I'm a believer, I believe in myself and my abilities to do my best, and most of 
 🗓 I'm also looking for any co-ops/internships in the tech field for the summer of 2023.
 </p>
 
-<h2> 🛰Outlets🛰</h2>
+<h2>🛰Outlets🛰</h2>
 <p align="left">
     <a href = "https://www.linkedin.com/in/charles-von-goins-ii-968aa824a/">
     <img alt="My LinkedIn Page!"
     src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+    </a>
+</p>
+
+<h2>🖥Tech Skills🖥</h2>
+<p align='left'>
+    <a>
+    <src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'>
     </a>
 </p>
 
