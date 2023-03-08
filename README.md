@@ -12,8 +12,6 @@ I'm a believer, I believe in myself and my abilities to do my best, and most of 
 </p><p>
 📒 I'm looking to write any research papers on Blockchain/Web 3.0 topics
 </p><p>
-🗓 I'm also looking for any co-ops/internships in the tech field for the summer of 2023.
-</p>
 
 <h2>🛰Outlets🛰</h2>
 <p align="left">
